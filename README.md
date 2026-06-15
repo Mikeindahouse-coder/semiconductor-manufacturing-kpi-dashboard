@@ -209,10 +209,3 @@ Potential future enhancements include:
 * Multi-Fab Performance Comparison
 
 ---
-
-## Author
-
-Sheng-Yu Chang
-
-National Cheng Kung University
-M.S. in Electrical Engineering
