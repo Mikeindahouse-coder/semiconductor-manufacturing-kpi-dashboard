@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# SQLite temp files
+*.db-journal
+
+# Power BI temp files*.tmp
+*.bak

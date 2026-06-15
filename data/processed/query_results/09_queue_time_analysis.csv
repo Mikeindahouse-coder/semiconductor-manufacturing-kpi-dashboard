@@ -1,0 +1,7 @@
+process_step,avg_queue_time_hours,max_queue_time_hours,min_queue_time_hours
+Etching,10.83,27.43,0.0
+Inspection,6.1,16.06,0.0
+Deposition,6.03,16.38,0.0
+Lithography,6.02,15.36,0.0
+Metrology,6.01,16.13,0.0
+CMP,6.0,17.15,0.0

@@ -1,0 +1,7 @@
+process_step,wip_count
+Metrology,3000
+Lithography,3000
+Inspection,3000
+Etching,3000
+Deposition,3000
+CMP,3000

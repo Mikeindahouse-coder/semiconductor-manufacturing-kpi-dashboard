@@ -1,0 +1,7 @@
+process_step,record_count,avg_queue_time_hours,avg_process_time_hours,avg_cycle_time_hours,queue_time_percentage
+Etching,3000,10.83,3.93,14.76,73.39
+Inspection,3000,6.1,3.0,9.1,67.04
+Metrology,3000,6.01,3.02,9.03,66.57
+Lithography,3000,6.02,3.0,9.03,66.74
+Deposition,3000,6.03,2.99,9.02,66.82
+CMP,3000,6.0,3.0,9.01,66.64

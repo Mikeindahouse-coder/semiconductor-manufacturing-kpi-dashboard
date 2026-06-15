@@ -1,0 +1,5 @@
+product_id,total_lots,avg_yield_percent,total_defects,avg_defects_per_step
+N3_GPU,721,94.0,8716,2.01
+N3_MOBILE,741,93.93,9091,2.04
+N3_CPU,752,93.85,8742,1.94
+N3_AI,786,92.07,9358,1.98

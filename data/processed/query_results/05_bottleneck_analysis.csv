@@ -1,0 +1,7 @@
+process_step,wip_count,avg_queue_time_hours,avg_process_time_hours,avg_cycle_time_hours,total_process_hours,queue_time_rank,cycle_time_rank,workload_rank
+Etching,3000,10.83,3.93,14.76,11781.81,1,1,1
+Inspection,3000,6.1,3.0,9.1,9001.39,2,2,5
+Deposition,3000,6.03,2.99,9.02,8980.92,3,5,6
+Lithography,3000,6.02,3.0,9.03,9007.39,4,3,4
+Metrology,3000,6.01,3.02,9.03,9053.18,5,3,2
+CMP,3000,6.0,3.0,9.01,9013.43,6,6,3

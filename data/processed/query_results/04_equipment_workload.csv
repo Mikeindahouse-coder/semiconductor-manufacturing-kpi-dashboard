@@ -1,0 +1,17 @@
+equipment_id,process_step,lot_count,total_process_hours,avg_process_hours
+CMP_02,CMP,1549,4649.74,3.0
+MET_02,Metrology,1514,4591.7,3.03
+INSP_01,Inspection,1502,4554.15,3.03
+MET_01,Metrology,1486,4461.48,3.0
+INSP_02,Inspection,1498,4447.24,2.97
+CMP_01,CMP,1451,4363.69,3.01
+ETCH_04,Etching,805,3127.79,3.89
+DEP_03,Deposition,1023,3065.2,3.0
+LITHO_01,Lithography,1009,3049.87,3.02
+DEP_02,Deposition,1020,3032.31,2.97
+LITHO_03,Lithography,1025,3008.02,2.93
+ETCH_02,Etching,757,2975.66,3.93
+LITHO_02,Lithography,966,2949.5,3.05
+DEP_01,Deposition,957,2883.41,3.01
+ETCH_03,Etching,724,2841.31,3.92
+ETCH_01,Etching,714,2837.05,3.97
